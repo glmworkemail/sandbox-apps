@@ -1,0 +1,5 @@
+/private/config.php
+/private/rate-limit/
+/var/
+*.log
+.DS_Store
